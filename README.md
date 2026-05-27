@@ -60,8 +60,6 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 ---
 
-<br>
-
 ## Clases
 
 ### 🟢 Lección 1 — ¿Qué es la Programación y qué es Java?
@@ -160,7 +158,7 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
   - `private String nombre;` protege el atributo del acceso directo.
   - `public String getNombre() { return nombre; }` permite leer el valor.
   - `public void setNombre(String n) { this.nombre = n; }` permite modificarlo.
-<br>
+  <br>
 - **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
 
 ---
