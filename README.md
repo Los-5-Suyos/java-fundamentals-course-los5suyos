@@ -6,14 +6,14 @@
 
 <br>
 
-[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![YouTube](https://img.shields.io/badge/Clases-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
-[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
+**Un curso introductorio de Java orientado a estudiantes de secundaria (12–17 años)**  
+**¡Sin instalaciones! Solo necesitas tu navegador web 🌐**
 
 <br>
 
-**Un curso introductorio de Java orientado a estudiantes de secundaria (12–17 años)**  
-**¡Sin instalaciones! Solo necesitas tu navegador web 🌐**
+[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![YouTube](https://img.shields.io/badge/Clases-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 
 <br>
 
