@@ -4,8 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"/>
 
+<br>
+
 [![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![YouTube](https://img.shields.io/badge/Clases-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 
 <br>
