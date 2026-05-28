@@ -4,16 +4,14 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100"/>
 
+[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
+
 <br>
 
 **Un curso introductorio de Java orientado a estudiantes de secundaria (12–17 años)**  
 **¡Sin instalaciones! Solo necesitas tu navegador web 🌐**
-
-<br>
-
-[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![YouTube](https://img.shields.io/badge/Clases-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
-[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 
 <br>
 
@@ -64,147 +62,324 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 ## Clases
 
+## 📚 Secuencia de Lecciones
+ 
+> 💡 Haz clic en la miniatura de cada lección para ver el video en YouTube.  
+> Cuando tengas los videos grabados, reemplaza `VIDEO_ID` por el ID real de YouTube en cada miniatura.
+ 
+---
+ 
 ### 🟢 Lección 1 — ¿Qué es la Programación y qué es Java?
+ 
+<div align="center">
 
-- **Descripción**: Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link1)
-- **Conclusiones clave**:
-  - Java es uno de los lenguajes más usados del mundo (apps, videojuegos, Android).
-  - Un programa es una secuencia de instrucciones que la computadora sigue paso a paso.
-  - Todo programa Java comienza con `public static void main(String[] args)`.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo)
+[![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=▶+Lección+1:+¿Qué+es+Java?+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Descripción** | Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa. |
+| **Aprenderás** | Qué es Java y por qué usarlo · Cómo funciona un programa · Tu primer `System.out.println()` |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- Java es uno de los lenguajes más usados del mundo: apps, videojuegos y Android lo usan.
+- Un programa es una secuencia de instrucciones que la computadora sigue paso a paso.
+- Todo programa Java comienza con `public static void main(String[] args)`.
+
+</details>
+
+<br>
 
 ---
-
+ 
 ### 🟢 Lección 2 — Variables y Tipos de Datos
+ 
+<div align="center">
 
-- **Descripción**: Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link2)
-- **Conclusiones clave**:
-  - Tipos más usados: `int`, `double`, `String`, `boolean`.
-  - Declarar variable: `int edad = 15;` / `String nombre = "Ana";`
-  - Las variables son como cajas donde guardas información.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
+[![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=▶+Lección+2:+Variables+y+Tipos+de+Datos+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Descripción** | Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java. |
+| **Aprenderás** | `int`, `double`, `String`, `boolean` · Declarar variables · Concatenar texto |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- Tipos más usados: `int`, `double`, `String`, `boolean`.
+- Declarar variable: `int edad = 15;` / `String nombre = "Ana";`
+- Las variables son como cajas donde guardas información.
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🟡 Lección 3 — Operadores y Expresiones
+ 
+<div align="center">
 
-- **Descripción**: Aprende a realizar cálculos y comparaciones dentro de tus programas usando operadores.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link3)
-- **Conclusiones clave**:
-  - Aritméticos: `+`, `-`, `*`, `/`, `%`
-  - Comparación: `==`, `!=`, `>`, `<`, `>=`, `<=`
-  - Lógicos: `&&` (y), `||` (o), `!` (no)
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores)
+[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=▶+Lección+3:+Operadores+y+Expresiones+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 7 minutos |
+| **Descripción** | Aprende a realizar cálculos y comparaciones dentro de tus programas usando operadores. |
+| **Aprenderás** | Operadores aritméticos · Comparación · Lógicos `&&` `\|\|` `!` |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- Aritméticos: `+`, `-`, `*`, `/`, `%`
+- Comparación: `==`, `!=`, `>`, `<`, `>=`, `<=`
+- Lógicos: `&&` (y), `||` (o), `!` (no)
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🟡 Lección 4 — Estructuras de Control: Decisiones y Bucles
+ 
+<div align="center">
 
-- **Descripción**: Aprende a tomar decisiones con `if-else` y a repetir acciones con bucles `for` y `while`.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**:
-  - `if (edad >= 12) { System.out.println("Puedes entrar"); }`
-  - `for (int i = 0; i < 5; i++) { System.out.println(i); }`
-  - `while (condicion) { ... }` repite mientras la condición sea verdadera.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control)
+[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=▶+Lección+4:+Decisiones+y+Bucles+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 10 minutos |
+| **Descripción** | Aprende a tomar decisiones con `if-else` y a repetir acciones con bucles `for` y `while`. |
+| **Aprenderás** | `if` / `else if` / `else` · Bucle `for` · Bucle `while` |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- `if (edad >= 12) { System.out.println("Puedes entrar"); }`
+- `for (int i = 0; i < 5; i++) { System.out.println(i); }`
+- `while (condicion) { ... }` repite mientras la condición sea verdadera.
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🟡 Lección 5 — Métodos y Entrada/Salida de Datos
+ 
+<div align="center">
 
-- **Descripción**: Aprende a organizar tu código en métodos reutilizables y a interactuar con el usuario leyendo datos desde la consola.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**:
-  - Un método agrupa instrucciones: `public static void saludar() { ... }`
-  - Los métodos pueden recibir parámetros y devolver valores.
-  - `Scanner sc = new Scanner(System.in);` permite leer lo que escribe el usuario.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos)
+[![Ver Lección 5](https://placehold.co/640x360/1a1a2e/ffffff?text=▶+Lección+5:+Métodos+y+Entrada+Salida+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Descripción** | Aprende a organizar tu código en métodos reutilizables y a interactuar con el usuario leyendo datos desde la consola. |
+| **Aprenderás** | Crear métodos · Parámetros y retorno · Leer datos con `Scanner` |
+ 
+<details>
+<summary> Ver conclusiones </summary>
+- Un método agrupa instrucciones: `public static void saludar() { ... }`
+- Los métodos pueden recibir parámetros y devolver valores.
+- `Scanner sc = new Scanner(System.in);` permite leer lo que escribe el usuario.
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🔵 Lección 6 — Introducción a la POO: Clases y Objetos
+ 
+<div align="center">
 
-- **Descripción**: Descubre el concepto de Programación Orientada a Objetos: qué son las clases, los objetos, los atributos y los métodos.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link6)
-- **Conclusiones clave**:
-  - Una clase es como un molde: `class Estudiante { String nombre; int edad; }`
-  - Un objeto es una instancia de esa clase: `Estudiante e1 = new Estudiante();`
-  - Los atributos describen al objeto; los métodos definen su comportamiento.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases)
+[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=▶+Lección+6:+Clases+y+Objetos+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 10 minutos |
+| **Descripción** | Descubre el concepto de Programación Orientada a Objetos: qué son las clases, los objetos, los atributos y los métodos. |
+| **Aprenderás** | Definir una clase · Crear objetos con `new` · Atributos y métodos |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- Una clase es como un molde: `class Estudiante { String nombre; int edad; }`
+- Un objeto es una instancia de esa clase: `Estudiante e1 = new Estudiante();`
+- Los atributos describen al objeto; los métodos definen su comportamiento.
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🔵 Lección 7 — Encapsulamiento, Getters y Setters
+ 
+<div align="center">
 
-- **Descripción**: Aprende a proteger los datos de tus objetos usando encapsulamiento, y a acceder a ellos de forma controlada.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link7)
-- **Conclusiones clave**:
-  - `private String nombre;` protege el atributo del acceso directo.
-  - `public String getNombre() { return nombre; }` permite leer el valor.
-  - `public void setNombre(String n) { this.nombre = n; }` permite modificarlo.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
+[![Ver Lección 7](https://placehold.co/640x360/0d1b2a/ffffff?text=▶+Lección+7:+Encapsulamiento+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 7 minutos |
+| **Descripción** | Aprende a proteger los datos de tus objetos usando encapsulamiento, y a acceder a ellos de forma controlada. |
+| **Aprenderás** | Modificador `private` · Getters · Setters con validación |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- `private String nombre;` protege el atributo del acceso directo.
+- `public String getNombre() { return nombre; }` permite leer el valor.
+- `public void setNombre(String n) { this.nombre = n; }` permite modificarlo con control.
+
+</details>
+
+<br>
 
 ---
-
+ 
 ### 🔵 Lección 8 — Arrays y Estructuras de Datos Simples
+ 
+<div align="center">
 
-- **Descripción**: Aprende a almacenar múltiples valores usando arrays y a recorrerlos con bucles.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link8)
-- **Conclusiones clave**:
-  - Declarar un array: `int[] notas = {15, 18, 12, 20};`
-  - Acceder a un elemento: `notas[0]` devuelve `15`.
-  - Recorrer: `for (int nota : notas) { System.out.println(nota); }`
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays)
+[![Ver Lección 8](https://placehold.co/640x360/0d1b2a/ffffff?text=▶+Lección+8:+Arrays+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 7 minutos |
+| **Descripción** | Aprende a almacenar múltiples valores usando arrays y a recorrerlos con bucles. |
+| **Aprenderás** | Declarar arrays · Acceder por índice · Recorrer con `for` y `for-each` |
+ 
+<details>
+
+<summary> Ver conclusiones clave</summary>
+
+- Declarar un array: `int[] notas = {15, 18, 12, 20};`
+- Acceder a un elemento: `notas[0]` devuelve `15`.
+- Recorrer: `for (int nota : notas) { System.out.println(nota); }`
+
+</details>
 
 <br>
 
 ---
-
+ 
 ### 🔴 Lección 9 — Proyecto Final: Registro de Estudiantes con POO
+ 
+<div align="center">
 
-- **Descripción**: Integra todo lo aprendido construyendo una aplicación de registro de estudiantes usando clases, objetos, arrays y entrada de datos.
-- **Video**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link9)
-- **Conclusiones clave**:
-  - Diseñar una clase `Estudiante` con atributos y métodos.
-  - Crear y almacenar objetos en un array.
-  - Mostrar la información de cada estudiante en consola.
-  <br>
-- **Proyecto final**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final) 👈 **¡Guarda y comparte tu creación!**
+[![Ver Lección 9](https://placehold.co/640x360/2d0000/ffffff?text=▶+Lección+9:+🏆+Proyecto+Final+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Proyecto%20Final%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final)
+ 
+</div>
 
+| | |
+|---|---|
+| **Duración** | 10 minutos |
+| **Descripción** | Integra todo lo aprendido construyendo una aplicación de registro de estudiantes con clases, objetos, arrays y encapsulamiento. |
+| **Aprenderás** | Diseñar una clase completa · Usar arrays de objetos · Calcular estadísticas |
+ 
+<details>
+
+<summary> Ver conclusiones </summary>
+- Diseñar una clase `Estudiante` con atributos privados y métodos.
+- Crear y almacenar objetos en un array.
+- Calcular promedio general y encontrar al mejor estudiante.
+</details>
+
+> **¡Guarda tu proyecto en Replit y comparte el enlace con tus compañeros!**
+ 
 <br>
 
 ---
-
+ 
 ### ⭐ Lección 10 — Buenas Prácticas y Próximos Pasos
+ 
+<div align="center">
 
-- **Descripción**: Cierra el curso con consejos prácticos, errores comunes a evitar y recursos para seguir aprendiendo Java.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link10)
-- **Consejos clave**:
-  - Usa nombres descriptivos para variables y métodos.
-  - Lee los mensajes de error con calma — son pistas para corregir tu código.
-  - Explora la [documentación oficial de Oracle Java](https://docs.oracle.com/en/java/) y plataformas como [Codecademy](https://www.codecademy.com/learn/learn-java).
-  <br>
-- **Comparte tu trabajo final del curso**: [Enviar mi proyecto](https://forms.gle/your-form)
+[![Ver Lección 10](https://placehold.co/640x360/1a1a2e/FFD700?text=▶+Lección+10:+⭐+Buenas+Prácticas+%285+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
+ 
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
+&nbsp;&nbsp;
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas)
+ 
+</div>
+
+| | |
+|---|---|
+| **Duración** | 5 minutos |
+| **Descripción** | Cierra el curso con consejos prácticos, errores comunes a evitar y recursos para seguir aprendiendo Java. |
+| **Aprenderás** | Nombres descriptivos · No repetir código · Leer errores · Recursos para continuar |
+ 
+<details>
+
+<br>
+
+<summary> Ver consejos clave</summary>
+
+- Usa nombres descriptivos para variables y métodos.
+- Lee los mensajes de error con calma — son pistas para corregir tu código.
+- Explora la [documentación oficial de Oracle Java](https://docs.oracle.com/en/java/) y plataformas como [Codecademy](https://www.codecademy.com/learn/learn-java).
+
+</details>
+
+> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.gle/your-form)
 
 <br>
 
@@ -230,12 +405,46 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 ---
 
+## Estructura del Repositorio
+ 
+> Todo el código fuente del curso está organizado en el siguiente repositorio público de GitHub:
+ 
+[![Ver Repositorio](https://img.shields.io/badge/📂%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
+ 
+```
+java-fundamentals-course-los5suyos/
+│
+├── 📄 README.md                          ← Plan completo del curso (este documento)
+│
+│
+├── 📁 starter-files/                     ← Código BASE para practicar en Replit
+│                                            Cada archivo tiene TODO guiados paso 
+│
+├── 📁 completed-examples/                ← Código COMPLETO y funcionando
+│                                           Úsalo como referencia si te atascas
+│
+└── 📁 scripts/                           ← Guiones de narración para cada video
+
+```
+ 
+> 💡 **¿Cómo usar el repositorio?**
+> - Empieza siempre por el archivo en **`starter-files/`** de la lección que estés viendo
+> - Si te atascas en algún TODO, consulta el mismo archivo en **`completed-examples/`**
+> - Los **`scripts/`** son los guiones que usaron los presentadores al grabar cada video
+
+<br>
+
+---
+
 ## 🌐 Recursos Adicionales
 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 - **Documentación oficial de Java**: [docs.oracle.com/java](https://docs.oracle.com/en/java/)
 - **Seguir aprendiendo**: [Codecademy — Learn Java](https://www.codecademy.com/learn/learn-java)
 - **Hashtag**: `#JavaParaPrincipiantes`
+
+
+<br>
 
 ---
 
