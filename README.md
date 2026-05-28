@@ -62,9 +62,7 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 ---
 
-## Clases
-
-## 📚 Secuencia de Lecciones
+## Secuencia de Lecciones
  
 > 💡 Haz clic en la miniatura de cada lección para ver el video en YouTube.  
 > Cuando tengas los videos grabados, reemplaza `VIDEO_ID` por el ID real de YouTube en cada miniatura.
