@@ -69,3 +69,9 @@ En tu Replit:
 ## Cierre (30 seg)
 
 Las clases y los objetos son la base de la POO. En la próxima lección aprenderemos a proteger los datos de nuestros objetos con encapsulamiento.
+
+
+---
+ 
+> **Equipo Los 5 Suyos** · Universidad Peruana de Ciencias Aplicadas  
+> Ingeniería de Software · 1ASI0729 Desarrollo de Aplicaciones Open Source · 202610

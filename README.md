@@ -62,12 +62,42 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 ---
 
+## Estructura del Repositorio
+ 
+> Todo el código fuente del curso está organizado en el siguiente repositorio público de GitHub:
+ 
+[![Ver Repositorio](https://img.shields.io/badge/📂%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
+ 
+```
+java-fundamentals-course-los5suyos/
+│
+├── 📄 README.md                          ← Plan completo del curso (este documento)
+│
+│
+├── 📁 starter-files/                     ← Código BASE que usaremos cada clase en Replit
+│                                            Cada archivo tiene TODO guiados paso 
+│
+├── 📁 completed-examples/                ← Código COMPLETO de la clase
+│                                           Úsalo como referencia si te atascas
+│
+└── 📁 scripts/                           ← Guiones de narración para cada video
+
+```
+ 
+> 💡 **¿Cómo usar el repositorio?**
+> - Empieza siempre por el archivo en **`starter-files/`** de la lección que estés viendo
+> - Si te atascas en algún TODO, consulta el mismo archivo en **`completed-examples/`**
+> - Los **`scripts/`** son los guiones que usaron los presentadores al grabar cada video
+
+<br>
+
+---
+
 ## Secuencia de Lecciones
  
-> 💡 Haz clic en la miniatura de cada lección para ver el video en YouTube.  
-> Cuando tengas los videos grabados, reemplaza `VIDEO_ID` por el ID real de YouTube en cada miniatura.
+> Haz clic en la miniatura de cada lección para ver el video en YouTube.  
  
----
+
  
 ### 🟢 Lección 1 — ¿Qué es la Programación y qué es Java?
  
@@ -400,37 +430,6 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 | 9 | Proyecto Final POO | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final) |
 | 10 | Buenas Prácticas | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas) |
 | | **Total** | **~65 min** | |
-
-<br>
-
----
-
-## Estructura del Repositorio
- 
-> Todo el código fuente del curso está organizado en el siguiente repositorio público de GitHub:
- 
-[![Ver Repositorio](https://img.shields.io/badge/📂%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
- 
-```
-java-fundamentals-course-los5suyos/
-│
-├── 📄 README.md                          ← Plan completo del curso (este documento)
-│
-│
-├── 📁 starter-files/                     ← Código BASE para practicar en Replit
-│                                            Cada archivo tiene TODO guiados paso 
-│
-├── 📁 completed-examples/                ← Código COMPLETO y funcionando
-│                                           Úsalo como referencia si te atascas
-│
-└── 📁 scripts/                           ← Guiones de narración para cada video
-
-```
- 
-> 💡 **¿Cómo usar el repositorio?**
-> - Empieza siempre por el archivo en **`starter-files/`** de la lección que estés viendo
-> - Si te atascas en algún TODO, consulta el mismo archivo en **`completed-examples/`**
-> - Los **`scripts/`** son los guiones que usaron los presentadores al grabar cada video
 
 <br>
 

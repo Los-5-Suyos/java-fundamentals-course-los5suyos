@@ -79,3 +79,8 @@ En tu Replit:
 ## Cierre (30 seg)
 
 Con `if-else`, `for` y `while` tu programa ya puede tomar decisiones y automatizar tareas repetitivas. En la próxima lección aprenderemos a organizar el código en métodos reutilizables.
+
+---
+ 
+> **Equipo Los 5 Suyos** · Universidad Peruana de Ciencias Aplicadas  
+> Ingeniería de Software · 1ASI0729 Desarrollo de Aplicaciones Open Source · 202610

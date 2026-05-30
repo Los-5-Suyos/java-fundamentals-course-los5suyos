@@ -81,3 +81,9 @@ En tu Replit:
 ## Cierre (30 seg)
 
 El encapsulamiento protege los datos y da control sobre cómo se modifican. En la próxima lección aprenderemos a manejar múltiples datos con arrays.
+
+
+---
+ 
+> **Equipo Los 5 Suyos** · Universidad Peruana de Ciencias Aplicadas  
+> Ingeniería de Software · 1ASI0729 Desarrollo de Aplicaciones Open Source · 202610

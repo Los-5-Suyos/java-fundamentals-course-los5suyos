@@ -72,3 +72,8 @@ En tu Replit:
 ## Cierre (30 seg)
 
 Los métodos hacen el código más ordenado y reutilizable. En la próxima lección damos el salto a la Programación Orientada a Objetos con clases y objetos.
+
+---
+ 
+> **Equipo Los 5 Suyos** · Universidad Peruana de Ciencias Aplicadas  
+> Ingeniería de Software · 1ASI0729 Desarrollo de Aplicaciones Open Source · 202610
