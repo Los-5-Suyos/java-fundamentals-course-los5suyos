@@ -96,7 +96,6 @@ java-fundamentals-course-los5suyos/
 ## Secuencia de Lecciones
  
 > Haz clic en la miniatura de cada lección para ver el video en YouTube.  
- 
 
  
 ### 🟢 Lección 1 — ¿Qué es la Programación y qué es Java?
@@ -108,11 +107,7 @@ java-fundamentals-course-los5suyos/
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
 &nbsp;&nbsp;
-
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)
  
 </div>
 
@@ -121,7 +116,12 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 8 minutos |
 | **Descripción** | Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa. |
 | **Aprenderás** | Qué es Java y por qué usarlo · Cómo funciona un programa · Tu primer `System.out.println()` |
- 
+
+<br>
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)
+
+
 <details>
 
 <summary> Ver conclusiones </summary>
