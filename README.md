@@ -46,7 +46,7 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 <div align="center">
 <a href="https://www.jdoodle.com">
-<img src="https://www.jdoodle.com/assets/img/jdoodle-logo.png" alt="JDoodle Logo" width="160"/>
+<img src="https://image-service.leadiq.com/companylogo?linkedinId=82620596" alt="JDoodle Logo" width="160"/>
 </a>
 </div>
 
