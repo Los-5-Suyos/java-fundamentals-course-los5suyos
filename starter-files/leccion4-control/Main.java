@@ -42,7 +42,7 @@ public class Main {
         // 3: Usa un bucle for para contar del 1 al 5 e imprimir cada número
         
 
-        // 4: Usa un bucle while para hacer una cuenta regresiva del 5 al 1
+        // 4: Usa un bucle while para hacer una cuenta regresiva del 5 al 1 y ¡Despegue! 🚀
         // Tip: empieza con int cuenta = 5; y resta 1 en cada vuelta
         
 
