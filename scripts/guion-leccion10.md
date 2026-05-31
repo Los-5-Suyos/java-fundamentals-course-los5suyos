@@ -1,84 +1,270 @@
 # Lección 10 — Buenas Prácticas y Próximos Pasos
- 
+
 ## Introducción (30 seg)
- 
-Esta es la última lección del curso. No vamos a introducir código nuevo; en cambio, vamos a hablar de los hábitos que separan a los buenos programadores de los que recién empiezan, y de los recursos que puedes usar para seguir aprendiendo.
- 
+
+¡Felicitaciones por llegar hasta aquí!
+
+Has completado tu primer curso de programación en Java.
+
+Durante estas lecciones aprendiste a crear programas, trabajar con variables, usar estructuras de control, crear métodos, utilizar clases y objetos, y desarrollar un proyecto completo utilizando Programación Orientada a Objetos.
+
+En esta última lección no aprenderemos código nuevo.
+
+En cambio, veremos algunas buenas prácticas que te ayudarán a convertirte en un mejor programador y exploraremos qué temas puedes estudiar después de este curso.
+
 ---
- 
+
 ## Desarrollo (3.5 min)
- 
-### 1. Usa nombres descriptivos
- 
-El código se lee mucho más veces de las que se escribe. Un nombre claro vale más que un comentario.
- 
+
+# 1. Usa nombres descriptivos
+
+Una de las reglas más importantes de la programación es escribir código que sea fácil de entender.
+
+Recuerda que muchas veces leerás tu propio código semanas o meses después de haberlo escrito.
+
+Observa la diferencia:
+
 ```java
-// ❌ Difícil de entender
+// ❌ Poco claro
 int x = 15;
 double r = x * 1.18;
- 
-// ✅ Se entiende solo
+```
+
+¿Qué representan `x` y `r`?
+
+No lo sabemos.
+
+Ahora veamos una versión más clara:
+
+```java
+// ✅ Más fácil de entender
 int precioBase = 15;
 double precioConImpuesto = precioBase * 1.18;
 ```
- 
-### 2. No repitas código — crea métodos
- 
-Si copias y pegas el mismo bloque de código dos veces, es momento de convertirlo en un método.
- 
+
+Aquí el propósito de cada variable es evidente.
+
+Un buen nombre puede evitar muchos errores y ahorrar mucho tiempo.
+
+---
+
+# 2. Evita repetir código
+
+Cuando encuentres el mismo bloque de código varias veces, pregúntate:
+
+> ¿Podría convertir esto en un método?
+
+Por ejemplo:
+
 ```java
 // ❌ Código repetido
 System.out.println("Nombre: " + estudiante1.getNombre());
 System.out.println("Nota: " + estudiante1.getNota());
+
 System.out.println("Nombre: " + estudiante2.getNombre());
 System.out.println("Nota: " + estudiante2.getNota());
- 
-// ✅ Un método que hace el trabajo
+```
+
+Podemos simplificarlo creando un método:
+
+```java
 public void mostrarInfo() {
     System.out.println("Nombre: " + nombre);
     System.out.println("Nota: " + nota);
 }
 ```
- 
-### 3. Lee los mensajes de error con calma
- 
-Los errores no significan que eres malo programando — son pistas. Java siempre te dice en qué línea está el problema y qué tipo de error es.
- 
-Errores comunes que verás:
-- `cannot find symbol` → escribiste mal el nombre de una variable o método
-- `incompatible types` → estás mezclando tipos de datos (por ejemplo, guardar un `String` en un `int`)
-- `ArrayIndexOutOfBoundsException` → intentaste acceder a un índice que no existe en el array
-Cuando veas un error: **lee el mensaje**, **busca la línea indicada**, y si no entiendes, copia el mensaje de error en un buscador web — hay miles de personas que tuvieron el mismo problema.
- 
-### 4. Practica todos los días, aunque sea 15 minutos
- 
-La programación es como aprender a tocar un instrumento: la constancia importa más que la intensidad. Escribir código pequeño todos los días te hace progresar más rápido que estudiar muchas horas de golpe una vez a la semana.
- 
-### ¿Qué aprender después de este curso?
- 
-Ahora que conoces los fundamentos de Java y la Programación Orientada a Objetos, estos son los siguientes temas naturales:
- 
-- **Herencia y polimorfismo** — cómo una clase puede "heredar" comportamiento de otra
-- **Interfaces** — una forma de definir contratos entre clases
-- **Colecciones** (`ArrayList`, `HashMap`) — versiones más flexibles que los arrays
-- **Manejo de excepciones** — cómo controlar errores en tiempo de ejecución
-### Recursos gratuitos para continuar
- 
-- **Documentación oficial de Oracle Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/) — la fuente más completa y confiable
-- **Codecademy — Learn Java**: [codecademy.com/learn/learn-java](https://www.codecademy.com/learn/learn-java) — lecciones interactivas paso a paso
-- **W3Schools Java**: [w3schools.com/java](https://www.w3schools.com/java/) — referencia rápida con ejemplos
-- **Replit**: sigue usando [replit.com](https://replit.com) para practicar sin instalar nada
----
- 
-## Cierre (1 min)
- 
-Felicitaciones. Empezaste este curso sin saber nada de programación, y ahora puedes crear clases, manejar objetos, trabajar con arrays y aplicar los principios básicos de la Programación Orientada a Objetos. Eso no es poca cosa.
- 
-La programación es una habilidad que se construye con práctica y paciencia. Cada error que corriges te enseña algo nuevo. Sigue construyendo cosas, aunque sean pequeñas — una calculadora, un juego de adivinanzas, un registro de tareas. Cada proyecto te hace mejor.
- 
-Gracias por completar el curso. ¡Mucho éxito!
+
+Luego simplemente llamamos:
+
+```java
+estudiante1.mostrarInfo();
+estudiante2.mostrarInfo();
+```
+
+El código queda más limpio y fácil de mantener.
 
 ---
- 
+
+# 3. Aprende a leer los errores
+
+Todos los programadores cometen errores.
+
+Incluso los desarrolladores con años de experiencia ven mensajes de error todos los días.
+
+La diferencia está en cómo reaccionan.
+
+Los errores son información que nos ayuda a encontrar el problema.
+
+Algunos errores comunes son:
+
+### cannot find symbol
+
+```text
+cannot find symbol
+```
+
+Significa que Java no encuentra una variable, clase o método.
+
+Normalmente ocurre por escribir mal un nombre.
+
+---
+
+### incompatible types
+
+```text
+incompatible types
+```
+
+Significa que estás mezclando tipos de datos incompatibles.
+
+Por ejemplo:
+
+```java
+int edad = "15";
+```
+
+Aquí intentamos guardar texto dentro de una variable numérica.
+
+---
+
+### ArrayIndexOutOfBoundsException
+
+```text
+ArrayIndexOutOfBoundsException
+```
+
+Ocurre cuando intentas acceder a una posición que no existe dentro de un array.
+
+Por ejemplo:
+
+```java
+int[] numeros = {1, 2, 3};
+
+System.out.println(numeros[5]);
+```
+
+El índice 5 no existe.
+
+---
+
+### ¿Qué hacer cuando aparece un error?
+
+Sigue estos pasos:
+
+1. Lee el mensaje completo.
+2. Identifica la línea indicada.
+3. Revisa cuidadosamente el código.
+4. Busca información si no entiendes el error.
+5. Prueba nuevamente.
+
+Resolver errores es una parte normal del proceso de programación.
+
+---
+
+# 4. Practica con frecuencia
+
+Aprender programación se parece mucho a aprender un deporte o un instrumento musical.
+
+La práctica constante es más importante que estudiar muchas horas una sola vez.
+
+Incluso 15 o 20 minutos al día pueden marcar una gran diferencia.
+
+Algunas ideas de proyectos pequeños son:
+
+- Una calculadora
+- Un juego de adivinanzas
+- Un sistema de notas
+- Una agenda de contactos
+- Un registro de tareas
+
+Cada proyecto te enseñará algo nuevo.
+
+---
+
+# ¿Qué aprender después de este curso?
+
+Ahora que dominas los fundamentos de Java, estos son algunos de los siguientes pasos recomendados.
+
+### Herencia y Polimorfismo
+
+Aprenderás cómo una clase puede reutilizar características de otra.
+
+---
+
+### Interfaces
+
+Permiten definir comportamientos comunes para diferentes clases.
+
+---
+
+### Colecciones
+
+Estructuras más flexibles que los arrays.
+
+Algunas muy utilizadas son:
+
+- ArrayList
+- HashMap
+- HashSet
+
+---
+
+### Manejo de Excepciones
+
+Aprenderás a controlar errores de forma profesional para que los programas sean más robustos.
+
+---
+
+## Recursos para seguir aprendiendo
+
+Puedes continuar practicando con:
+
+- La documentación oficial de Java.
+- Tutoriales interactivos de Java.
+- Sitios de referencia con ejemplos y ejercicios.
+- Replit para crear proyectos sin necesidad de instalar software.
+
+Lo más importante es seguir escribiendo código.
+
+---
+
+## Cierre (1 min)
+
+¡Felicitaciones!
+
+Cuando comenzaste este curso probablemente no sabías qué era una variable, un método o una clase.
+
+Hoy eres capaz de:
+
+✅ Crear programas en Java.
+
+✅ Utilizar variables y operadores.
+
+✅ Tomar decisiones con estructuras de control.
+
+✅ Crear métodos reutilizables.
+
+✅ Trabajar con clases y objetos.
+
+✅ Aplicar encapsulamiento.
+
+✅ Utilizar arrays para manejar múltiples datos.
+
+✅ Desarrollar una aplicación sencilla utilizando Programación Orientada a Objetos.
+
+Eso representa un gran avance.
+
+Recuerda que ningún programador aprende todo de una vez.
+
+Cada proyecto, cada error corregido y cada ejercicio resuelto forman parte del aprendizaje.
+
+Sigue practicando, sigue construyendo proyectos y sigue teniendo curiosidad por aprender.
+
+Este curso es solo el comienzo de tu camino en el desarrollo de software.
+
+¡Mucho éxito en tus próximos proyectos y gracias por completar el curso!
+
+---
+
 > **Equipo Los 5 Suyos** · Universidad Peruana de Ciencias Aplicadas  
 > Ingeniería de Software · 1ASI0729 Desarrollo de Aplicaciones Open Source · 202610
