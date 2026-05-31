@@ -116,7 +116,8 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 8 minutos |
 | **Descripción** | Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa. |
 | **Aprenderás** | Qué es Java y por qué usarlo · Cómo funciona un programa · Tu primer `System.out.println()` |
-| **Guión** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
+
 <br>
 
 <details>
@@ -147,8 +148,6 @@ java-fundamentals-course-los5suyos/
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
 &nbsp;&nbsp;
 
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)
-
 </div>
 
 | | |
@@ -156,7 +155,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 8 minutos |
 | **Descripción** | Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java. |
 | **Aprenderás** | `int`, `double`, `String`, `boolean` · Declarar variables · Concatenar texto |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -185,8 +187,6 @@ java-fundamentals-course-los5suyos/
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores)
 &nbsp;&nbsp;
 
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)
- 
 </div>
 
 | | |
@@ -194,7 +194,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 7 minutos |
 | **Descripción** | Aprende a realizar cálculos y comparaciones dentro de tus programas usando operadores. |
 | **Aprenderás** | Operadores aritméticos · Comparación · Lógicos `&&` `\|\|` `!` |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -221,10 +224,7 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control)
-&nbsp;&nbsp;
 
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)
- 
 </div>
 
 | | |
@@ -232,7 +232,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 10 minutos |
 | **Descripción** | Aprende a tomar decisiones con `if-else` y a repetir acciones con bucles `for` y `while`. |
 | **Aprenderás** | `if` / `else if` / `else` · Bucle `for` · Bucle `while` |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -259,9 +262,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)
 
 </div>
 
@@ -270,7 +270,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 8 minutos |
 | **Descripción** | Aprende a organizar tu código en métodos reutilizables y a interactuar con el usuario leyendo datos desde la consola. |
 | **Aprenderás** | Crear métodos · Parámetros y retorno · Leer datos con `Scanner` |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)|
+
+<br>
+
 <details>
 <summary> Ver conclusiones </summary>
 
@@ -296,9 +299,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)
  
 </div>
 
@@ -307,7 +307,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 10 minutos |
 | **Descripción** | Descubre el concepto de Programación Orientada a Objetos: qué son las clases, los objetos, los atributos y los métodos. |
 | **Aprenderás** | Definir una clase · Crear objetos con `new` · Atributos y métodos |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -334,9 +337,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)
  
 </div>
 
@@ -345,7 +345,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 7 minutos |
 | **Descripción** | Aprende a proteger los datos de tus objetos usando encapsulamiento, y a acceder a ellos de forma controlada. |
 | **Aprenderás** | Modificador `private` · Getters · Setters con validación |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -372,9 +375,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion8.md)
  
 </div>
 
@@ -383,7 +383,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 7 minutos |
 | **Descripción** | Aprende a almacenar múltiples valores usando arrays y a recorrerlos con bucles. |
 | **Aprenderás** | Declarar arrays · Acceder por índice · Recorrer con `for` y `for-each` |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion8.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones clave</summary>
@@ -410,9 +413,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Proyecto%20Final%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion9.md)
  
 </div>
 
@@ -421,7 +421,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 10 minutos |
 | **Descripción** | Integra todo lo aprendido construyendo una aplicación de registro de estudiantes con clases, objetos, arrays y encapsulamiento. |
 | **Aprenderás** | Diseñar una clase completa · Usar arrays de objetos · Calcular estadísticas |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion9.md)|
+
+<br>
+
 <details>
 
 <summary> Ver conclusiones </summary>
@@ -450,9 +453,6 @@ java-fundamentals-course-los5suyos/
 &nbsp;&nbsp;
 
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas)
-&nbsp;&nbsp;
-
-[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion10.md)
  
 </div>
 
@@ -461,7 +461,10 @@ java-fundamentals-course-los5suyos/
 | **Duración** | 5 minutos |
 | **Descripción** | Cierra el curso con consejos prácticos, errores comunes a evitar y recursos para seguir aprendiendo Java. |
 | **Aprenderás** | Nombres descriptivos · No repetir código · Leer errores · Recursos para continuar |
- 
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion10.md)|
+
+<br>
+
 <details>
 
 <br>
