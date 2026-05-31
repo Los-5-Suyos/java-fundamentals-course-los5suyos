@@ -103,11 +103,16 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
+
 [![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+Java?+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
- 
+
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)
  
 </div>
 
@@ -138,11 +143,15 @@ java-fundamentals-course-los5suyos/
 <div align="center">
 
 [![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Variables+y+Tipos+de+Datos+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
- 
+
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
- 
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)
+
 </div>
 
 | | |
@@ -175,7 +184,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)
  
 </div>
 
@@ -209,7 +222,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)
  
 </div>
 
@@ -243,8 +260,12 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos)
- 
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)
+
 </div>
 
 | | |
@@ -276,7 +297,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)
  
 </div>
 
@@ -310,7 +335,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)
  
 </div>
 
@@ -344,7 +373,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion8.md)
  
 </div>
 
@@ -378,7 +411,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Proyecto%20Final%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion9.md)
  
 </div>
 
@@ -414,7 +451,11 @@ java-fundamentals-course-los5suyos/
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
 &nbsp;&nbsp;
+
 [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas)
+&nbsp;&nbsp;
+
+[![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion10.md)
  
 </div>
 
