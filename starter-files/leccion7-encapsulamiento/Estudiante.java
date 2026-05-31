@@ -11,28 +11,27 @@
 
 public class Estudiante {
 
-    // TODO 1: Declara los atributos como "private"
+    // 1. Declara los atributos como "private"
     //   private String nombre;
     //   private int edad;
     //   private double promedio;
     
 
-    // TODO 2: Crea el constructor que inicialice los tres atributos
-    
+    // 2: Crea el constructor que inicialice los tres atributos
 
-    // TODO 3: Crea los GETTERS (métodos para leer cada atributo)
+
+    // 3. Crea los GETTERS (métodos para leer cada atributo)
     // Formato: public TipoDato getNombreAtributo() { return atributo; }
-    // Ejemplo:
-    //   public String getNombre() { return nombre; }
+
     
 
-    // TODO 4: Crea los SETTERS (métodos para modificar cada atributo)
+    // 4. Crea los SETTERS (métodos para modificar cada atributo)
     // Formato: public void setNombreAtributo(TipoDato valor) { this.atributo = valor; }
     // Agrega una validación en setEdad: la edad no puede ser negativa
     // Agrega una validación en setPromedio: debe estar entre 0 y 20
     
 
-    // TODO 5: Crea un método "mostrarInfo()" que imprima todos los datos
+    // 5. Crea un método "mostrarInfo()" que imprima todos los datos
     
 
 }

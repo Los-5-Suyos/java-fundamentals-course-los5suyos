@@ -31,11 +31,13 @@ Avanzaremos paso a paso y explicaremos cada sección.
 
 Abre el Replit del proyecto final y comencemos.
 
+<br>
+
 ---
 
 ## Desarrollo (8 min)
 
-# Paso 1: Diseñar la clase Estudiante
+### Paso 1: Diseñar la clase Estudiante
 
 Antes de programar debemos pensar qué información tiene un estudiante.
 
@@ -73,14 +75,15 @@ class Estudiante {
     }
 }
 ```
+<br>
 
 ---
 
-## ¿Qué estamos usando aquí?
+### ¿Qué estamos usando aquí?
 
 Observa que aparecen varios conceptos que ya conoces:
 
-### Encapsulamiento
+**Encapsulamiento**
 
 ```java
 private String nombre;
@@ -89,9 +92,9 @@ private double nota;
 
 Los atributos están protegidos mediante `private`.
 
----
+<br>
 
-### Constructor
+**Constructor**
 
 ```java
 public Estudiante(String nombre, double nota)
@@ -101,9 +104,9 @@ El constructor se ejecuta automáticamente cuando creamos un objeto.
 
 Sirve para inicializar sus datos.
 
----
+<br>
 
-### Getters
+**Getters**
 
 ```java
 getNombre()
@@ -112,9 +115,9 @@ getNota()
 
 Permiten acceder a la información de forma segura.
 
----
+<br>
 
-### Método personalizado
+**Método personalizado**
 
 ```java
 mostrarInfo()
@@ -122,9 +125,11 @@ mostrarInfo()
 
 Nos ayuda a reutilizar código y mantener el programa organizado.
 
+<br>
+
 ---
 
-# Paso 2: Crear los estudiantes
+### Paso 2: Crear los estudiantes
 
 Ahora vamos al método principal.
 
@@ -141,6 +146,8 @@ Visualmente:
 ```
 
 Todavía está vacío.
+
+<br>
 
 ---
 
@@ -161,9 +168,11 @@ Visualmente:
 [ Ana ] [ Luis ] [ María ] [ Carlos ]
 ```
 
+<br>
+
 ---
 
-# Paso 3: Mostrar todos los estudiantes
+### Paso 3: Mostrar todos los estudiantes
 
 Utilizamos un `for-each` para recorrer el array.
 
@@ -175,7 +184,7 @@ for (Estudiante e : registro) {
 }
 ```
 
-Resultado:
+**Resultado:**
 
 ```text
 === Lista de Estudiantes ===
@@ -191,9 +200,11 @@ Aquí estamos combinando:
 * Objetos
 * Métodos
 
+<br>
+
 ---
 
-# Paso 4: Calcular el promedio general
+### Paso 4: Calcular el promedio general
 
 Ahora queremos saber cómo le fue al grupo completo.
 
@@ -220,22 +231,27 @@ System.out.println(
     "Promedio general: " + promedio
 );
 ```
+<br>
 
 ---
 
-## ¿Por qué usamos registro.length?
+### ¿Por qué usamos registro.length?
 
 Porque devuelve automáticamente la cantidad de estudiantes.
 
 Si mañana agregamos más estudiantes, el cálculo seguirá funcionando.
 
+<br>
+
 ---
 
-# Paso 5: Encontrar al mejor estudiante
+### Paso 5: Encontrar al mejor estudiante
 
 Ahora resolveremos un problema muy común en programación:
 
 Encontrar el valor más alto.
+
+<br>
 
 ---
 
@@ -244,6 +260,8 @@ Encontrar el valor más alto.
 ```java
 Estudiante mejor = registro[0];
 ```
+
+<br>
 
 ---
 
@@ -261,6 +279,8 @@ for (Estudiante e : registro) {
 
 Cada vez que encontramos una nota mayor, actualizamos la variable.
 
+<br>
+
 ---
 
 ### Mostrar el resultado
@@ -274,15 +294,16 @@ System.out.println(
 );
 ```
 
-Resultado:
+**Resultado:**
 
 ```text
 Mejor estudiante: María con 20.0
 ```
+<br>
 
 ---
 
-## Error común de principiantes
+### Error común de principiantes
 
 Muchos estudiantes intentan empezar así:
 
@@ -302,29 +323,33 @@ Estudiante mejor = registro[0];
 
 Así siempre tenemos una referencia válida.
 
+<br>
+
 ---
 
-## ¿Qué aprendimos en este proyecto?
+### ¿Qué aprendimos en este proyecto?
 
 Este proyecto utiliza prácticamente todo lo visto durante el curso:
 
-✅ Variables
+- Variables
 
-✅ Métodos
+- Métodos
 
-✅ Condiciones (`if`)
+- Condiciones (`if`)
 
-✅ Arrays
+- Arrays
 
-✅ Clases
+- Clases
 
-✅ Objetos
+- Objetos
 
-✅ Encapsulamiento
+- Encapsulamiento
 
-✅ Getters
+- Getters
 
-✅ Bucles (`for-each`)
+- Bucles (`for-each`)
+
+<br>
 
 ---
 
@@ -344,7 +369,7 @@ registro[4] = new Estudiante("TuNombre", 19.0);
 
 Recuerda aumentar el tamaño del array.
 
----
+<br>
 
 ### Parte 2: Crear el método estaAprobado()
 
@@ -355,8 +380,7 @@ public boolean estaAprobado() {
     return nota >= 11;
 }
 ```
-
----
+<br>
 
 ### Parte 3: Mostrar si aprobó
 
@@ -368,8 +392,6 @@ Ejemplo:
 Estudiante: Ana | Nota: 18.5 | Aprobado: true
 ```
 
----
-
 ### 🌟 Desafío Extra
 
 Calcula también:
@@ -377,6 +399,8 @@ Calcula también:
 * La nota más baja.
 * Cuántos estudiantes aprobaron.
 * Cuántos desaprobaron.
+
+<br>
 
 ---
 
@@ -401,6 +425,7 @@ En la siguiente y última lección cerraremos el curso con recomendaciones, recu
 
 ¡Nos vemos en la última clase!
 
+<br>
 
 ---
  

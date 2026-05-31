@@ -6,23 +6,24 @@
 
 public class Main {
 
+    // 🏆 Reto 7: Crea una clase Estudiante con atributos y un método, luego crea objetos de esa clase y llama a su método
     public static void main(String[] args) {
 
-        // TODO 6: Crea un objeto Estudiante con datos iniciales
+        // 6. Crea un objeto Estudiante con datos iniciales
         
 
-        // TODO 7: Muestra la información usando mostrarInfo()
+        // 7: Muestra la información usando mostrarInfo()
         
 
-        // TODO 8: Usa un setter para actualizar el promedio
+        // 8. Usa un setter para actualizar el promedio
         // (simula que el estudiante sacó nueva nota)
         
 
-        // TODO 9: Intenta poner una edad negativa con setEdad(-5)
+        // 9: Intenta poner una edad negativa con setEdad(-5)
         // Verifica que la validación funcione
         
 
-        // TODO 10: Usa un getter para imprimir solo el nombre
+        // 10: Usa un getter para imprimir solo el nombre
         
 
     }

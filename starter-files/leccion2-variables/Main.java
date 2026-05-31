@@ -13,28 +13,22 @@
 
 public class Main {
 
+    // 🏆 Reto 2: Crea tu perfil digital
     public static void main(String[] args) {
 
-        // TODO 1: Declara una variable int con tu edad
-        // Formato: int nombreVariable = valor;
+        // 1. Declara una variable int con tu edad
+
+
+        // 2. Declara una variable String con tu nombre completo
         
 
-        // TODO 2: Declara una variable String con tu nombre completo
-        // Formato: String nombreVariable = "valor entre comillas";
-        
+        // 3. Declara una variable double con tu promedio escolar
 
-        // TODO 3: Declara una variable double con tu promedio escolar
-        // Ejemplo: double promedio = 16.5;
-        
 
-        // TODO 4: Declara una variable boolean que indique si aprobaste el curso
-        // Valores posibles: true o false
-        
+        // 4. Declara una variable boolean que indique si aprobaste el curso
 
-        // TODO 5: Imprime todas las variables con System.out.println()
-        // Tip: puedes combinar texto y variables así:
-        //   System.out.println("Mi nombre es: " + tuVariable);
-        
+
+        // 5. Imprime todas las variables con System.out.println()
 
     }
 }

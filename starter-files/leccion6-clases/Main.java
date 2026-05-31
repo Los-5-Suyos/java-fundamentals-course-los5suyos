@@ -9,18 +9,19 @@
 
 public class Main {
 
+    // 🏆 Reto 6: Crea una clase Estudiante con atributos y un método, luego crea objetos de esa clase y llama a su método
     public static void main(String[] args) {
 
-        // TODO 4: Crea un objeto Estudiante con tus datos
+        // 4. Crea un objeto Estudiante con tus datos
         // Formato: NombreClase variable = new NombreClase(parametros);
         // Ejemplo: Estudiante est1 = new Estudiante("Ana", 15, "3ro de secundaria");
         
 
-        // TODO 5: Llama al método presentarse() del objeto que creaste
+        // 5: Llama al método presentarse() del objeto que creaste
         // Formato: variable.nombreMetodo();
         
 
-        // TODO 6: Crea un segundo objeto Estudiante con datos diferentes
+        // 6: Crea un segundo objeto Estudiante con datos diferentes
         // y llama también a su método presentarse()
         
 

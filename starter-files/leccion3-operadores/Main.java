@@ -21,28 +21,29 @@
 
 public class Main {
 
+    // 🏆 Reto 3: Calcula el promedio de tus notas
     public static void main(String[] args) {
 
         int notaExamen1 = 16;
         int notaExamen2 = 18;
         int notaExamen3 = 14;
 
-        // TODO 1: Calcula la suma de las tres notas y guárdala en una variable
+        // 1. Calcula la suma de las tres notas y guárdala en una variable
         
 
-        // TODO 2: Calcula el promedio dividiendo la suma entre 3
+        // 2. Calcula el promedio dividiendo la suma entre 3
         // Tip: usa double para el promedio y (double) antes de la suma
         //   double promedio = (double) suma / 3;
         
 
-        // TODO 3: Imprime la suma y el promedio
+        // 3. Imprime la suma y el promedio
         
 
-        // TODO 4: Usa un operador de comparación para saber si el promedio es mayor a 14.5
+        // 4: Usa un operador de comparación para saber si el promedio es mayor a 14.5
         // Guarda el resultado en una variable boolean
         
 
-        // TODO 5: Imprime si el estudiante aprobó
+        // 5: Imprime si el estudiante aprobó
         
 
     }

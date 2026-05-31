@@ -11,28 +11,29 @@
 
 public class Main {
 
+    // 🏆 Reto 8: Gestiona tus notas con arrays
     public static void main(String[] args) {
 
-        // TODO 1: Declara un array de int con 5 notas de ejemplo
+        // 1. Declara un array de int con 5 notas de ejemplo
         
 
-        // TODO 2: Imprime el primer y último elemento del array
+        // 2: Imprime el primer y último elemento del array
         // Tip: el último es notas[notas.length - 1]
         
 
-        // TODO 3: Usa un bucle for para imprimir todas las notas
+        // 3: Usa un bucle for para imprimir todas las notas
         // con su número de lección: "Lección 1: 15"
         
 
-        // TODO 4: Calcula el promedio de todas las notas usando el array
+        // 4: Calcula el promedio de todas las notas usando el array
         // Tip: suma todas con un bucle, luego divide entre notas.length
         
 
-        // TODO 5: Encuentra la nota más alta del array
+        // 5: Encuentra la nota más alta del array
         // Tip: empieza con maxima = notas[0] y compara en cada vuelta
         
 
-        // TODO 6: Declara un array de String con 3 nombres de compañeros
+        // 6: Declara un array de String con 3 nombres de compañeros
         // e imprímelos todos con un bucle for-each:
         // for (String nombre : nombres) { ... }
         

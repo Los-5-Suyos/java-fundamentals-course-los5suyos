@@ -17,43 +17,34 @@
 //   String texto = entrada.nextLine();   // leer texto
 //   int numero   = entrada.nextInt();    // leer número entero
 
-import java.util.Scanner;
 
 public class Main {
-
-    // TODO 1: Crea un método llamado "saludar" que reciba un String "nombre"
+    // 🏆 Reto 5: Crea un método para saludar al usuario y otro para calcular el promedio de sus notas, luego usa Scanner para pedir su nombre y notas, y muestra el saludo y el promedio calculado.
+    
+    // 1. Crea un método llamado "saludar" que reciba un String "nombre"
     // y que imprima "¡Hola, [nombre]! Bienvenido al curso de Java."
     // No devuelve nada (void)
     
 
-    // TODO 2: Crea un método llamado "calcularPromedio" que reciba
+    // 2: Crea un método llamado "calcularPromedio" que reciba
     // tres notas (double) y devuelva el promedio (double)
     
 
     public static void main(String[] args) {
 
-        // TODO 3: Crea un Scanner para leer la entrada del usuario
+        // 3: Crea un Scanner para leer la entrada del usuario
         
 
-        // TODO 4: Pide al usuario que escriba su nombre y léelo
-        System.out.print("¿Cuál es tu nombre? ");
-        // String nombre = ...
+        // 4: Pide al usuario que escriba su nombre y léelo
+
+
+        // 5: Llama al método saludar con el nombre ingresado
         
 
-        // TODO 5: Llama al método saludar con el nombre ingresado
-        
+        // 6: Pide tres notas al usuario y calcula su promedio
 
-        // TODO 6: Pide tres notas al usuario y calcula su promedio
-        System.out.print("Ingresa tu primera nota: ");
-        // ...
 
-        System.out.print("Ingresa tu segunda nota: ");
-        // ...
-
-        System.out.print("Ingresa tu tercera nota: ");
-        // ...
-
-        // TODO 7: Llama a calcularPromedio e imprime el resultado
+        // 7: Llama a calcularPromedio e imprime el resultado
         
 
     }

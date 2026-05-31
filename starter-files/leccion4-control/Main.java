@@ -23,25 +23,26 @@
 
 public class Main {
 
+    // 🏆 Reto 4: Controla tu destino académico    
     public static void main(String[] args) {
 
         double promedio = 15.5;
         int edad = 14;
 
-        // TODO 1: Usa if-else para mostrar si el estudiante aprobó
+        // 1. Usa if-else para mostrar si el estudiante aprobó
         // Condición: promedio >= 14.5
         
 
-        // TODO 2: Usa if - else if - else para mostrar la calificación en letras
+        // 2: Usa if - else if - else para mostrar la calificación en letras
         // Mayor o igual a 18 → "Sobresaliente"
         // Mayor o igual a 14 → "Aprobado"
         // Menor a 14         → "Desaprobado"
         
 
-        // TODO 3: Usa un bucle for para contar del 1 al 5 e imprimir cada número
+        // 3: Usa un bucle for para contar del 1 al 5 e imprimir cada número
         
 
-        // TODO 4: Usa un bucle while para hacer una cuenta regresiva del 5 al 1
+        // 4: Usa un bucle while para hacer una cuenta regresiva del 5 al 1
         // Tip: empieza con int cuenta = 5; y resta 1 en cada vuelta
         
 

@@ -10,19 +10,19 @@
 public class Estudiante {
 
     // ATRIBUTOS: la información que describe a un estudiante
-    // TODO 1: Declara tres atributos:
+    // 1. Declara tres atributos:
     //   - nombre  (String)
     //   - edad    (int)
     //   - grado   (String)  ejemplo: "3ro de secundaria"
     
 
     // CONSTRUCTOR: método especial que crea el objeto con sus datos
-    // TODO 2: Crea el constructor que reciba nombre, edad y grado
+    // 2: Crea el constructor que reciba nombre, edad y grado
     //   public Estudiante(String nombre, int edad, String grado) { ... }
     
 
     // MÉTODO: acción que puede realizar el objeto
-    // TODO 3: Crea un método "presentarse()" que imprima:
+    // 3: Crea un método "presentarse()" que imprima:
     //   "Hola, soy [nombre], tengo [edad] años y estoy en [grado]."
     
 

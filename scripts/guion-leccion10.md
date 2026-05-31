@@ -12,25 +12,28 @@ En esta última lección no aprenderemos código nuevo.
 
 En cambio, veremos algunas buenas prácticas que te ayudarán a convertirte en un mejor programador y exploraremos qué temas puedes estudiar después de este curso.
 
+<br>
+
 ---
 
 ## Desarrollo (3.5 min)
 
-# 1. Usa nombres descriptivos
+### 1. Usa nombres descriptivos
 
 Una de las reglas más importantes de la programación es escribir código que sea fácil de entender.
 
 Recuerda que muchas veces leerás tu propio código semanas o meses después de haberlo escrito.
 
-Observa la diferencia:
+**Observa la diferencia:**
 
 ```java
 // ❌ Poco claro
 int x = 15;
 double r = x * 1.18;
 ```
+<br>
 
-¿Qué representan `x` y `r`?
+**¿Qué representan `x` y `r`?**
 
 No lo sabemos.
 
@@ -46,15 +49,17 @@ Aquí el propósito de cada variable es evidente.
 
 Un buen nombre puede evitar muchos errores y ahorrar mucho tiempo.
 
+<br>
+
 ---
 
-# 2. Evita repetir código
+### 2. Evita repetir código
 
 Cuando encuentres el mismo bloque de código varias veces, pregúntate:
 
 > ¿Podría convertir esto en un método?
 
-Por ejemplo:
+**Por ejemplo:**
 
 ```java
 // ❌ Código repetido
@@ -83,9 +88,9 @@ estudiante2.mostrarInfo();
 
 El código queda más limpio y fácil de mantener.
 
----
+<br>
 
-# 3. Aprende a leer los errores
+### 3. Aprende a leer los errores
 
 Todos los programadores cometen errores.
 
@@ -97,6 +102,8 @@ Los errores son información que nos ayuda a encontrar el problema.
 
 Algunos errores comunes son:
 
+<br>
+
 ### cannot find symbol
 
 ```text
@@ -107,7 +114,7 @@ Significa que Java no encuentra una variable, clase o método.
 
 Normalmente ocurre por escribir mal un nombre.
 
----
+<br>
 
 ### incompatible types
 
@@ -117,7 +124,7 @@ incompatible types
 
 Significa que estás mezclando tipos de datos incompatibles.
 
-Por ejemplo:
+**Por ejemplo:**
 
 ```java
 int edad = "15";
@@ -125,7 +132,7 @@ int edad = "15";
 
 Aquí intentamos guardar texto dentro de una variable numérica.
 
----
+<br>
 
 ### ArrayIndexOutOfBoundsException
 
@@ -135,7 +142,7 @@ ArrayIndexOutOfBoundsException
 
 Ocurre cuando intentas acceder a una posición que no existe dentro de un array.
 
-Por ejemplo:
+**Por ejemplo:**
 
 ```java
 int[] numeros = {1, 2, 3};
@@ -145,7 +152,7 @@ System.out.println(numeros[5]);
 
 El índice 5 no existe.
 
----
+<br>
 
 ### ¿Qué hacer cuando aparece un error?
 
@@ -159,9 +166,9 @@ Sigue estos pasos:
 
 Resolver errores es una parte normal del proceso de programación.
 
----
+<br>
 
-# 4. Practica con frecuencia
+### 4. Practica con frecuencia
 
 Aprender programación se parece mucho a aprender un deporte o un instrumento musical.
 
@@ -179,25 +186,23 @@ Algunas ideas de proyectos pequeños son:
 
 Cada proyecto te enseñará algo nuevo.
 
+<br>
+
 ---
 
-# ¿Qué aprender después de este curso?
+## ¿Qué aprender después de este curso?
 
 Ahora que dominas los fundamentos de Java, estos son algunos de los siguientes pasos recomendados.
 
-### Herencia y Polimorfismo
+#### Herencia y Polimorfismo
 
 Aprenderás cómo una clase puede reutilizar características de otra.
 
----
-
-### Interfaces
+#### Interfaces
 
 Permiten definir comportamientos comunes para diferentes clases.
 
----
-
-### Colecciones
+#### Colecciones
 
 Estructuras más flexibles que los arrays.
 
@@ -207,11 +212,11 @@ Algunas muy utilizadas son:
 - HashMap
 - HashSet
 
----
-
-### Manejo de Excepciones
+#### Manejo de Excepciones
 
 Aprenderás a controlar errores de forma profesional para que los programas sean más robustos.
+
+<br>
 
 ---
 
@@ -226,6 +231,8 @@ Puedes continuar practicando con:
 
 Lo más importante es seguir escribiendo código.
 
+<br>
+
 ---
 
 ## Cierre (1 min)
@@ -236,21 +243,21 @@ Cuando comenzaste este curso probablemente no sabías qué era una variable, un 
 
 Hoy eres capaz de:
 
-✅ Crear programas en Java.
+ - Crear programas en Java.
 
-✅ Utilizar variables y operadores.
+ - Utilizar variables y operadores.
 
-✅ Tomar decisiones con estructuras de control.
+ - Tomar decisiones con estructuras de control.
 
-✅ Crear métodos reutilizables.
+ - Crear métodos reutilizables.
 
-✅ Trabajar con clases y objetos.
+ - Trabajar con clases y objetos.
 
-✅ Aplicar encapsulamiento.
+ - Aplicar encapsulamiento.
 
-✅ Utilizar arrays para manejar múltiples datos.
+ - Utilizar arrays para manejar múltiples datos.
 
-✅ Desarrollar una aplicación sencilla utilizando Programación Orientada a Objetos.
+ - Desarrollar una aplicación sencilla utilizando Programación Orientada a Objetos.
 
 Eso representa un gran avance.
 
@@ -263,6 +270,8 @@ Sigue practicando, sigue construyendo proyectos y sigue teniendo curiosidad por 
 Este curso es solo el comienzo de tu camino en el desarrollo de software.
 
 ¡Mucho éxito en tus próximos proyectos y gracias por completar el curso!
+
+<br>
 
 ---
 
