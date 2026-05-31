@@ -53,10 +53,11 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 ### Pasos para empezar:
 
 **1.** Haz clic en el botón **"Practicar en JDoodle"** de cualquier lección  
-**2.** Verás el código de ejemplo ya cargado en pantalla  
-**3.** Presiona el botón azul **Execute** para ejecutar el programa  
-**4.** El resultado aparece en la sección **Result** (parte inferior)  
-**5.** ¡Modifica el código y vuelve a presionar Execute para experimentar!
+**2.** Crea un nuevo proyecto en JDoodle  
+**3.** Copia el starter file de la lección desde el repositorio de GitHub  
+**4.** Pégalo en el editor de JDoodle  
+**5.** Presiona el botón **Execute** para ejecutar el programa  
+**6.** ¡Modifica el código y vuelve a presionar Execute para experimentar!
 
 > 💡 **Tip**: No necesitas crear cuenta para ejecutar el código. Si quieres guardar tus proyectos, crea una cuenta gratuita en [jdoodle.com](https://www.jdoodle.com) con tu correo o Google.
 
@@ -110,7 +111,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
 &nbsp;&nbsp;
 
-[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/ga/gjuzQRVwmCkHjpJlUXD4qQ%3D%3D)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
