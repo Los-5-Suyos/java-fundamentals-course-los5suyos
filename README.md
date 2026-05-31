@@ -11,7 +11,7 @@
 
 <br>
 
-[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![JDoodle](https://img.shields.io/badge/Practicar%20en-JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/)
 [![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 
@@ -33,30 +33,32 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 |---|---|
 | **Prerrequisitos** | Ninguno |
 | **Herramientas** | Solo tu navegador (Chrome, Firefox, Safari, Edge) |
-| **Para Programar** | [Replit](https://replit.com) — gratuito y online |
+| **Para Programar** | [JDoodle](https://www.jdoodle.com/) — gratuito y online |
 | **Repositorio** | [github.com/Los-5-Suyos/java-fundamentals-course-los5suyos](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos) |
 
 <br>
 
 ---
 
-## 🚀 ¿Cómo usar Replit? (Guía rápida)
+## 🚀 ¿Cómo usar JDoodle? (Guía rápida)
 
-> Replit es un editor de código **100% en línea y gratuito**. No necesitas instalar nada.
+> JDoodle es un compilador de Java **100% en línea y gratuito**. No necesitas instalar nada.
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit Logo" width="160"/>
+<a href="https://www.jdoodle.com">
+<img src="https://www.jdoodle.com/assets/img/jdoodle-logo.png" alt="JDoodle Logo" width="160"/>
+</a>
 </div>
 
 ### Pasos para empezar:
 
-**1.** Haz clic en el botón **"Abrir en Replit"** de cualquier lección  
+**1.** Haz clic en el botón **"Practicar en JDoodle"** de cualquier lección  
 **2.** Verás el código de ejemplo ya cargado en pantalla  
-**3.** Presiona el botón verde **Run** (▶) para ejecutar el programa  
-**4.** El resultado aparece en la sección **Console** (parte derecha o inferior)  
-**5.** ¡Modifica el código y vuelve a presionar Run para experimentar!
+**3.** Presiona el botón azul **Execute** para ejecutar el programa  
+**4.** El resultado aparece en la sección **Result** (parte inferior)  
+**5.** ¡Modifica el código y vuelve a presionar Execute para experimentar!
 
-> 💡 **Tip**: No necesitas crear cuenta para ver y ejecutar el código. Si quieres guardar tus cambios, puedes crear una cuenta gratuita con tu correo o Google.
+> 💡 **Tip**: No necesitas crear cuenta para ejecutar el código. Si quieres guardar tus proyectos, crea una cuenta gratuita en [jdoodle.com](https://www.jdoodle.com) con tu correo o Google.
 
 <br>
 
@@ -107,7 +109,8 @@ java-fundamentals-course-los5suyos/
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
 &nbsp;&nbsp;
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo)
+
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/ga/gjuzQRVwmCkHjpJlUXD4qQ%3D%3D)
  
 </div>
 
@@ -145,7 +148,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 
 </div>
@@ -184,8 +187,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores)
-&nbsp;&nbsp;
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -223,7 +225,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -261,7 +263,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -298,7 +300,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
@@ -336,7 +338,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
@@ -374,7 +376,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
@@ -412,7 +414,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Proyecto%20Final%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
@@ -452,7 +454,7 @@ java-fundamentals-course-los5suyos/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
  
 </div>
 
@@ -489,16 +491,16 @@ java-fundamentals-course-los5suyos/
 
 | # | Tema | Duración | Práctica en Replit |
 |:---:|---|:---:|:---:|
-| 1 | ¿Qué es Java? — Hola Mundo | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion1-hola-mundo) |
-| 2 | Variables y Tipos de Datos | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables) |
-| 3 | Operadores y Expresiones | 7 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion3-operadores) |
-| 4 | Estructuras de Control | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion4-control) |
-| 5 | Métodos y Entrada/Salida | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion5-metodos) |
-| 6 | Clases y Objetos — POO | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion6-clases) |
-| 7 | Encapsulamiento | 7 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion7-encapsulamiento) |
-| 8 | Arrays | 7 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion8-arrays) |
-| 9 | Proyecto Final POO | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion9-proyecto-final) |
-| 10 | Buenas Prácticas | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion10-buenas-practicas) |
+| 1 | ¿Qué es Java? — Hola Mundo | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 2 | Variables y Tipos de Datos | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 3 | Operadores y Expresiones | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 4 | Estructuras de Control | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 5 | Métodos y Entrada/Salida | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 6 | Clases y Objetos — POO | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 7 | Encapsulamiento | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 8 | Arrays | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 9 | Proyecto Final POO | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 10 | Buenas Prácticas | 5 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
 | | **Total** | **~65 min** | |
 
 <br>
