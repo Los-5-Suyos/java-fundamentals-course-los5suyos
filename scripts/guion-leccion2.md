@@ -135,7 +135,7 @@ De esta forma, el programa puede mostrar información diferente dependiendo de l
 
 ## Práctica (1 min)
 
-### 🏆 Reto 2: Crea tu perfil digital
+### 🏆 **Reto 2: Crea tu perfil digital**
 
 Crea las siguientes variables:
 

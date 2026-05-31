@@ -294,7 +294,7 @@ Porque `tieneInternet` era `true`.
 
 ## Práctica (1 min)
 
-🏆 Reto 3: Calculadora y verificador
+🏆 **Reto 3: Calculadora y verificador**
 
 Crea dos variables numéricas:
 

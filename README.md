@@ -120,8 +120,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Java es uno de los lenguajes más usados del mundo: apps, videojuegos y Android lo usan.
+
 - Un programa es una secuencia de instrucciones que la computadora sigue paso a paso.
+
 - Todo programa Java comienza con `public static void main(String[] args)`.
 
 </details>
@@ -151,8 +154,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Tipos más usados: `int`, `double`, `String`, `boolean`.
+
 - Declarar variable: `int edad = 15;` / `String nombre = "Ana";`
+
 - Las variables son como cajas donde guardas información.
 
 </details>
@@ -182,8 +188,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Aritméticos: `+`, `-`, `*`, `/`, `%`
+
 - Comparación: `==`, `!=`, `>`, `<`, `>=`, `<=`
+
 - Lógicos: `&&` (y), `||` (o), `!` (no)
 
 </details>
@@ -213,8 +222,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - `if (edad >= 12) { System.out.println("Puedes entrar"); }`
+
 - `for (int i = 0; i < 5; i++) { System.out.println(i); }`
+
 - `while (condicion) { ... }` repite mientras la condición sea verdadera.
 
 </details>
@@ -243,8 +255,11 @@ java-fundamentals-course-los5suyos/
  
 <details>
 <summary> Ver conclusiones </summary>
+
 - Un método agrupa instrucciones: `public static void saludar() { ... }`
+
 - Los métodos pueden recibir parámetros y devolver valores.
+
 - `Scanner sc = new Scanner(System.in);` permite leer lo que escribe el usuario.
 
 </details>
@@ -274,8 +289,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Una clase es como un molde: `class Estudiante { String nombre; int edad; }`
+
 - Un objeto es una instancia de esa clase: `Estudiante e1 = new Estudiante();`
+
 - Los atributos describen al objeto; los métodos definen su comportamiento.
 
 </details>
@@ -305,8 +323,11 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - `private String nombre;` protege el atributo del acceso directo.
+
 - `public String getNombre() { return nombre; }` permite leer el valor.
+
 - `public void setNombre(String n) { this.nombre = n; }` permite modificarlo con control.
 
 </details>
@@ -338,7 +359,9 @@ java-fundamentals-course-los5suyos/
 <summary> Ver conclusiones clave</summary>
 
 - Declarar un array: `int[] notas = {15, 18, 12, 20};`
+
 - Acceder a un elemento: `notas[0]` devuelve `15`.
+
 - Recorrer: `for (int nota : notas) { System.out.println(nota); }`
 
 </details>
@@ -368,9 +391,13 @@ java-fundamentals-course-los5suyos/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Diseñar una clase `Estudiante` con atributos privados y métodos.
+
 - Crear y almacenar objetos en un array.
+
 - Calcular promedio general y encontrar al mejor estudiante.
+
 </details>
 
 > **¡Guarda tu proyecto en Replit y comparte el enlace con tus compañeros!**
@@ -404,7 +431,9 @@ java-fundamentals-course-los5suyos/
 <summary> Ver consejos clave</summary>
 
 - Usa nombres descriptivos para variables y métodos.
+
 - Lee los mensajes de error con calma — son pistas para corregir tu código.
+
 - Explora la [documentación oficial de Oracle Java](https://docs.oracle.com/en/java/) y plataformas como [Codecademy](https://www.codecademy.com/learn/learn-java).
 
 </details>

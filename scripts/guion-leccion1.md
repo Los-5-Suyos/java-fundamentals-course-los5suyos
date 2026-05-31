@@ -138,7 +138,7 @@ Cada vez que usamos System.out.println(), Java muestra el texto y pasa a la sigu
 
 ## Práctica (1 min)
 
-**🏆 Reto 1: Tu primera tarjeta de presentación**
+**🏆 **Reto 1: Tu primera tarjeta de presentación**
 Ahora es tu turno.
 
 Abre el Replit de esta lección y escribe un programa que muestre:
