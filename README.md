@@ -142,12 +142,6 @@ java-fundamentals-course-los5suyos/
 
 [![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Variables+y+Tipos+de+Datos+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
-&nbsp;&nbsp;
-
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)
-&nbsp;&nbsp;
-
 </div>
 
 | | |
@@ -156,6 +150,8 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java. |
 | **Aprenderás** | `int`, `double`, `String`, `boolean` · Declarar variables · Concatenar texto |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
+| **Clase** | [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)|
+| **Práctica** | [![Abrir en Replit](https://img.shields.io/badge/💻%20Practicar%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Los5Suyos/leccion2-variables)|
 
 <br>
 
