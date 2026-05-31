@@ -46,7 +46,7 @@ Este curso te enseña los fundamentos de la programación con **Java**, desde ce
 
 <div align="center">
 <a href="https://www.jdoodle.com">
-<img src="https://www.jdoodle.com/assets/JD_logo_colour-94056f51.webp" alt="JDoodle Logo" width="160"/>
+<img src="https://www.jdoodle.com/assets/JD_logo_colour-94056f51.webp" alt="JDoodle Logo" width="250"/>
 </a>
 </div>
 
@@ -489,7 +489,7 @@ java-fundamentals-course-los5suyos/
 
 ## Resumen de Lecciones y Prácticas
 
-| # | Tema | Duración | Práctica en Replit |
+| # | Tema | Duración | Práctica en JDoodle |
 |:---:|---|:---:|:---:|
 | 1 | ¿Qué es Java? — Hola Mundo | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
 | 2 | Variables y Tipos de Datos | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
