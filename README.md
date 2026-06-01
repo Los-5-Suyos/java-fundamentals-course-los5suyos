@@ -121,6 +121,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa. |
 | **Aprenderás** | Qué es Java y por qué usarlo · Cómo funciona un programa · Tu primer `System.out.println()` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion1-hola-mundo)|
 
 <br>
 
@@ -160,6 +161,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java. |
 | **Aprenderás** | `int`, `double`, `String`, `boolean` · Declarar variables · Concatenar texto |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion2-variables)|
 
 <br>
 
@@ -198,6 +200,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a realizar cálculos y comparaciones dentro de tus programas usando operadores. |
 | **Aprenderás** | Operadores aritméticos · Comparación · Lógicos `&&` `\|\|` `!` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion3-operadores)|
 
 <br>
 
@@ -236,6 +239,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a tomar decisiones con `if-else` y a repetir acciones con bucles `for` y `while`. |
 | **Aprenderás** | `if` / `else if` / `else` · Bucle `for` · Bucle `while` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion4-control)|
 
 <br>
 
@@ -274,6 +278,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a organizar tu código en métodos reutilizables y a interactuar con el usuario leyendo datos desde la consola. |
 | **Aprenderás** | Crear métodos · Parámetros y retorno · Leer datos con `Scanner` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion5-metodos)|
 
 <br>
 
@@ -311,6 +316,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Descubre el concepto de Programación Orientada a Objetos: qué son las clases, los objetos, los atributos y los métodos. |
 | **Aprenderás** | Definir una clase · Crear objetos con `new` · Atributos y métodos |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion6-clases)|
 
 <br>
 
@@ -349,6 +355,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a proteger los datos de tus objetos usando encapsulamiento, y a acceder a ellos de forma controlada. |
 | **Aprenderás** | Modificador `private` · Getters · Setters con validación |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion7-encapsulamiento)|
 
 <br>
 
@@ -387,6 +394,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Aprende a almacenar múltiples valores usando arrays y a recorrerlos con bucles. |
 | **Aprenderás** | Declarar arrays · Acceder por índice · Recorrer con `for` y `for-each` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion8.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion8-arrays)|
 
 <br>
 
@@ -425,6 +433,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Integra todo lo aprendido construyendo una aplicación de registro de estudiantes con clases, objetos, arrays y encapsulamiento. |
 | **Aprenderás** | Diseñar una clase completa · Usar arrays de objetos · Calcular estadísticas |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion9.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion9-proyecto-final)|
 
 <br>
 
@@ -465,6 +474,7 @@ java-fundamentals-course-los5suyos/
 | **Descripción** | Cierra el curso con consejos prácticos, errores comunes a evitar y recursos para seguir aprendiendo Java. |
 | **Aprenderás** | Nombres descriptivos · No repetir código · Leer errores · Recursos para continuar |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion10.md)|
+| **Starter Files** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion10-buenas-practicas)|
 
 <br>
 
@@ -480,7 +490,7 @@ java-fundamentals-course-los5suyos/
 
 </details>
 
-> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.office.com/r/Apt0WQ7jGM)
+> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.office.com/r/aBtng6gxFa)
 
 <br>
 

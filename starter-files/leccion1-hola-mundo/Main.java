@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 1: ¿Qué es Java? — Hola Mundo
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 public class Main {

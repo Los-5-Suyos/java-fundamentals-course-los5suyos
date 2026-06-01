@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 8: Arrays y Estructuras de Datos Simples
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // Un ARRAY es una lista de valores del mismo tipo

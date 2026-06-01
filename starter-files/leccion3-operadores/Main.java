@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 3: Operadores y Expresiones
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // OPERADORES ARITMÉTICOS (para calcular):

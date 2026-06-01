@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 2: Variables y Tipos de Datos
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // Una variable es como una caja con nombre donde guardas información

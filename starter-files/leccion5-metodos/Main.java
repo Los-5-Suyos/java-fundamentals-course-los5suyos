@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 5: Métodos y Entrada/Salida
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // Un MÉTODO es un bloque de código con nombre que puedes reutilizar

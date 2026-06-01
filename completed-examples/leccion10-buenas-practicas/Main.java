@@ -1,7 +1,6 @@
 // ============================================
 //  LECCIÓN 10: Buenas Prácticas y Errores Comunes
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
 // ============================================
 
 // Esta lección muestra ejemplos de código MAL escrito

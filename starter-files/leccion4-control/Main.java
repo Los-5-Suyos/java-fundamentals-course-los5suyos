@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 4: Estructuras de Control
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // IF - ELSE: tomar decisiones

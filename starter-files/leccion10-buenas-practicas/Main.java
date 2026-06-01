@@ -1,7 +1,7 @@
 // ============================================
 //  LECCIÓN 10: Buenas Prácticas y Próximos Pasos
 //  Curso: Fundamentos de Java para Principiantes
-//  Practicar en: https://replit.com
+//  Practicar en: https://www.jdoodle.com
 // ============================================
 
 // Las buenas prácticas hacen que el código sea
