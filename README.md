@@ -470,8 +470,6 @@ java-fundamentals-course-los5suyos/
 
 <details>
 
-<br>
-
 <summary> Ver consejos clave</summary>
 
 - Usa nombres descriptivos para variables y métodos.
