@@ -10,7 +10,7 @@ Todo eso existe gracias a la programación.
 
 En esta primera lección descubrirás qué es programar, qué es Java y escribirás tu primer programa.
 
-Lo mejor de todo es que no necesitas instalar nada. Solo abre Replit desde el enlace de esta lección y podrás empezar a programar directamente desde tu navegador.
+Lo mejor de todo es que no necesitas instalar nada. Solo abre JDoodle desde el enlace de esta lección y podrás empezar a programar directamente desde tu navegador.
 
 ---
 
@@ -139,9 +139,16 @@ Cada vez que usamos System.out.println(), Java muestra el texto y pasa a la sigu
 ## Práctica (1 min)
 
 **🏆 Reto 1: Tu primera tarjeta de presentación**
+
 Ahora es tu turno.
 
-Abre el Replit de esta lección y escribe un programa que muestre:
+Para comenzar, abre el archivo de inicio de esta lección:
+
+Ingresa a JDoodle desde el enlace que encontrarás debajo de este video.
+
+Una vez dentro, verás el archivo Main.java ya cargado con la estructura básica del programa.
+
+Tu tarea es completar el código dentro del método main, justo donde aparece el comentario `// aquí van las instrucciones.`
 
 1. Tu nombre.
 2. Tu edad.

@@ -29,7 +29,7 @@ No te preocupes si alguna parte parece difícil.
 
 Avanzaremos paso a paso y explicaremos cada sección.
 
-Abre el Replit del proyecto final y comencemos.
+Abre el JDoodle del proyecto final y comencemos.
 
 <br>
 

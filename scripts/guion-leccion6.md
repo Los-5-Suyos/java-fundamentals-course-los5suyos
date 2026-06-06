@@ -17,7 +17,7 @@ Hoy aprenderás dos conceptos fundamentales:
 - Las **clases**
 - Los **objetos**
 
-Abre tu Replit y empecemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

@@ -18,7 +18,8 @@ Todo esto es posible gracias a los operadores.
 
 Hoy aprenderás a realizar operaciones matemáticas, comparaciones y combinaciones lógicas usando Java.
 
-Abre tu Replit y empecemos.
+
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

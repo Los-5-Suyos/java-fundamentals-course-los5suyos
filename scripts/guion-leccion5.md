@@ -16,7 +16,7 @@ Los métodos permiten agrupar instrucciones, darles un nombre y reutilizarlas cu
 
 Además, aprenderemos a recibir información escrita por el usuario utilizando el teclado.
 
-Abre tu Replit y empecemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

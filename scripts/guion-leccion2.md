@@ -12,7 +12,7 @@ Para guardar esa información usamos variables.
 
 Hoy aprenderás qué son las variables, cómo crearlas y cuáles son los tipos de datos más utilizados en Java.
 
-Abre el Replit de esta lección y empecemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

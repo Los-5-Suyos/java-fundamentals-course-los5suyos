@@ -22,7 +22,7 @@ Tomar decisiones con `if` y `else`.
 Repetir acciones con `for`.
 Repetir acciones con `while`.
 
-Abre tu Replit y comencemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

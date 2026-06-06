@@ -33,7 +33,7 @@ Hoy aprenderás a:
 
 - Resolver problemas sencillos utilizando arrays.
 
-Abre tu Replit y empecemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

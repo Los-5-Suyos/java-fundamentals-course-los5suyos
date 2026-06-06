@@ -26,7 +26,7 @@ Hoy aprenderás cómo proteger los atributos de una clase utilizando:
 - `Getters`
 - `Setters`
 
-Abre tu Replit y empecemos.
+Abre en JDoodle de esta lección y empecemos.
 
 <br>
 

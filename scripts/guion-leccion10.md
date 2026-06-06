@@ -224,10 +224,11 @@ Aprenderás a controlar errores de forma profesional para que los programas sean
 
 Puedes continuar practicando con:
 
-- La documentación oficial de Java.
+- Te dejamos un ultimo reto para que puedas practicar más.
+- Puedes revisar la documentación oficial de Java.
 - Tutoriales interactivos de Java.
 - Sitios de referencia con ejemplos y ejercicios.
-- Replit para crear proyectos sin necesidad de instalar software.
+- JDoodle para crear proyectos sin necesidad de instalar software.
 
 Lo más importante es seguir escribiendo código.
 
