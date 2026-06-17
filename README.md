@@ -108,7 +108,7 @@ java-fundamentals-course-los5suyos/
 
 [![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+Java?+%288+min%29)](https://youtu.be/pM9N7QB7dEs)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pM9N7QB7dEs)
+[![Ver en YouTube](https://img.youtube.com/vi/pM9N7QB7dEs/maxresdefault.jpg)](https://youtu.be/pM9N7QB7dEs)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
