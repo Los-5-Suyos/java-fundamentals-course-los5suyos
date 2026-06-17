@@ -186,9 +186,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+3:+Operadores+y+Expresiones+%287+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+<a href="https://youtu.be/qv0DFZ9iD0E">
+  <img src="https://img.youtube.com/vi/qv0DFZ9iD0E/maxresdefault.jpg" width="640" height="360">
+</a><br>
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/qv0DFZ9iD0E)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
