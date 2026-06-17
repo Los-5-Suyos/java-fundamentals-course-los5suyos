@@ -105,10 +105,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-
 <a href="https://youtu.be/pM9N7QB7dEs">
   <img src="https://img.youtube.com/vi/pM9N7QB7dEs/maxresdefault.jpg" width="640" height="360">
-</a>
+</a><br>
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pM9N7QB7dEs)
 &nbsp;&nbsp;
@@ -187,9 +186,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+3:+Operadores+y+Expresiones+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
+[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+3:+Operadores+y+Expresiones+%287+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L3)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -226,9 +225,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Decisiones+y+Bucles+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
+[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Decisiones+y+Bucles+%2810+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L4)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -265,9 +264,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 5](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+5:+Métodos+y+Entrada+Salida+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
+[![Ver Lección 5](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+5:+Métodos+y+Entrada+Salida+%288+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L5)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -303,9 +302,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Clases+y+Objetos+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
+[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Clases+y+Objetos+%2810+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L6)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -342,9 +341,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 7](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+7:+Encapsulamiento+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
+[![Ver Lección 7](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+7:+Encapsulamiento+%287+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L7)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -381,9 +380,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 8](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+8:+Arrays+%287+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
+[![Ver Lección 8](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+8:+Arrays+%287+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L8)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -420,9 +419,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 9](https://placehold.co/640x360/2d0000/ffffff?text=+Lección+9:+Proyecto+Final+%2810+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
+[![Ver Lección 9](https://placehold.co/640x360/2d0000/ffffff?text=+Lección+9:+Proyecto+Final+%2810+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L9)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -461,9 +460,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 10](https://placehold.co/640x360/1a1a2e/FFD700?text=+Lección+10:+Buenas+Prácticas+%285+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
+[![Ver Lección 10](https://placehold.co/640x360/1a1a2e/FFD700?text=+Lección+10:+Buenas+Prácticas+%285+min%29)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L10)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
