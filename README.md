@@ -12,7 +12,7 @@
 <br>
 
 [![JDoodle](https://img.shields.io/badge/Practicar%20en-JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/)
-[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Los-5-Suyos/java-fundamentals-course-los5suyos)
 
 <br>
@@ -106,9 +106,9 @@ java-fundamentals-course-los5suyos/
 <div align="center">
 
 
-[![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+Java?+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
+[![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+Java?+%288+min%29)](https://youtu.be/pM9N7QB7dEs)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L1)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pM9N7QB7dEs)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
