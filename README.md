@@ -118,7 +118,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 8 minutos |
+| **Duración** | 4 minutos |
 | **Descripción** | Descubre qué es la programación, para qué sirve Java en el mundo real y cómo escribir tu primer programa. |
 | **Aprenderás** | Qué es Java y por qué usarlo · Cómo funciona un programa · Tu primer `System.out.println()` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
@@ -146,9 +146,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-[![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Variables+y+Tipos+de+Datos+%288+min%29)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
+<a href="https://youtu.be/cQaATa2TS14">
+  <img src="https://img.youtube.com/vi/cQaATa2TS14/maxresdefault.jpg" width="640" height="360">
+</a><br>
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID_L2)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cQaATa2TS14)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -158,7 +160,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 8 minutos |
+| **Duración** | 4 minutos |
 | **Descripción** | Aprende a guardar información en tu programa usando variables y los distintos tipos de datos en Java. |
 | **Aprenderás** | `int`, `double`, `String`, `boolean` · Declarar variables · Concatenar texto |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
@@ -199,7 +201,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 7 minutos |
+| **Duración** | 10 minutos |
 | **Descripción** | Aprende a realizar cálculos y comparaciones dentro de tus programas usando operadores. |
 | **Aprenderás** | Operadores aritméticos · Comparación · Lógicos `&&` `\|\|` `!` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)|
@@ -279,7 +281,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 8 minutos |
+| **Duración** | 12 minutos |
 | **Descripción** | Aprende a organizar tu código en métodos reutilizables y a interactuar con el usuario leyendo datos desde la consola. |
 | **Aprenderás** | Crear métodos · Parámetros y retorno · Leer datos con `Scanner` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)|
