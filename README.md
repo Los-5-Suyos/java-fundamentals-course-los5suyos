@@ -310,9 +310,9 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-<div align="center">
-
-
+<a href="https://youtu.be/NSd-r66No6w">
+  <img src="https://img.youtube.com/vi/NSd-r66No6w/maxresdefault.jpg" width="640" height="360">
+</a><br>
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NSd-r66No6w)
 &nbsp;&nbsp;
