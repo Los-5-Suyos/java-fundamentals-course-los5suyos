@@ -312,9 +312,7 @@ java-fundamentals-course-los5suyos/
 
 <div align="center">
 
-<a href="https://youtu.be/NSd-r66No6w">
-  <img src="https://img.youtube.com/vi/NSd-r66No6w/maxresdefault.jpg" width="640" height="360">
-</a><br>
+
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NSd-r66No6w)
 &nbsp;&nbsp;
@@ -334,7 +332,6 @@ java-fundamentals-course-los5suyos/
 <br>
 
 <details>
-
 <summary> Ver conclusiones </summary>
 
 - Una clase es como un molde: `class Estudiante { String nombre; int edad; }`
@@ -375,7 +372,6 @@ java-fundamentals-course-los5suyos/
 <br>
 
 <details>
-
 <summary> Ver conclusiones </summary>
 
 - `private String nombre;` protege el atributo del acceso directo.
@@ -416,7 +412,6 @@ java-fundamentals-course-los5suyos/
 <br>
 
 <details>
-
 <summary> Ver conclusiones clave</summary>
 
 - Declarar un array: `int[] notas = {15, 18, 12, 20};`
@@ -457,7 +452,6 @@ java-fundamentals-course-los5suyos/
 <br>
 
 <details>
-
 <summary> Ver conclusiones </summary>
 
 - Diseñar una clase `Estudiante` con atributos privados y métodos.
@@ -500,7 +494,6 @@ java-fundamentals-course-los5suyos/
 <br>
 
 <details>
-
 <summary> Ver consejos clave</summary>
 
 - Usa nombres descriptivos para variables y métodos.
