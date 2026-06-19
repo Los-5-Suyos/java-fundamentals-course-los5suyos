@@ -351,7 +351,7 @@ java-fundamentals-course-los5suyos/
 <div align="center">
 
 <a href="https://youtu.be/vqlzsllJbds">
-  <img src="https://img.youtube.com/vi/vqlzsllJbds/maxresdefault.jpg" width="640" height="360" alt="Playlist">
+  <img src="https://img.youtube.com/vi/vqlzsllJbds/maxresdefault.jpg" width="640" height="360">
 </a>
  
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vqlzsllJbds)
@@ -390,11 +390,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-<a href="https://www.youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6">
-  <img src="https://img.youtube.com/vi/anGnEdFj2Bg/maxresdefault.jpg" width="640" height="360" alt="Playlist">
+<a href="https://youtu.be/Pg6ZADBnUAI">
+  <img src="https://img.youtube.com/vi/Pg6ZADBnUAI/maxresdefault.jpg" width="640" height="360">
 </a>
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Pg6ZADBnUAI)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
