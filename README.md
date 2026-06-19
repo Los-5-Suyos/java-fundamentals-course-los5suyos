@@ -350,11 +350,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-<a href="https://www.youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6">
-  <img src="https://img.youtube.com/vi/anGnEdFj2Bg/maxresdefault.jpg" width="640" height="360" alt="Playlist">
+<a href="https://youtu.be/vqlzsllJbds">
+  <img src="https://img.youtube.com/vi/vqlzsllJbds/maxresdefault.jpg" width="640" height="360" alt="Playlist">
 </a>
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vqlzsllJbds)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -363,7 +363,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 7 minutos |
+| **Duración** | 17 minutos |
 | **Descripción** | Aprende a proteger los datos de tus objetos usando encapsulamiento, y a acceder a ellos de forma controlada. |
 | **Aprenderás** | Modificador `private` · Getters · Setters con validación |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)|
@@ -403,7 +403,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 7 minutos |
+| **Duración** | 18 minutos |
 | **Descripción** | Aprende a almacenar múltiples valores usando arrays y a recorrerlos con bucles. |
 | **Aprenderás** | Declarar arrays · Acceder por índice · Recorrer con `for` y `for-each` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion8.md)|
