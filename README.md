@@ -430,11 +430,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-<a href="https://www.youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6">
-  <img src="https://img.youtube.com/vi/anGnEdFj2Bg/maxresdefault.jpg" width="640" height="360" alt="Playlist">
+<a href="https://youtu.be/TKgevBntBfw">
+  <img src="https://img.youtube.com/vi/TKgevBntBfw/maxresdefault.jpg" width="640" height="360">
 </a>
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TKgevBntBfw)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -443,7 +443,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 10 minutos |
+| **Duración** | 23 minutos |
 | **Descripción** | Integra todo lo aprendido construyendo una aplicación de registro de estudiantes con clases, objetos, arrays y encapsulamiento. |
 | **Aprenderás** | Diseñar una clase completa · Usar arrays de objetos · Calcular estadísticas |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion9.md)|
@@ -472,11 +472,11 @@ java-fundamentals-course-los5suyos/
  
 <div align="center">
 
-<a href="https://www.youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6">
-  <img src="https://img.youtube.com/vi/anGnEdFj2Bg/maxresdefault.jpg" width="640" height="360" alt="Playlist">
+<a href="https://youtu.be/87jwBQyt6Ss">
+  <img src="https://img.youtube.com/vi/87jwBQyt6Ss/maxresdefault.jpg" width="640" height="360" alt="Playlist">
 </a>
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkTS1j-iX-EWuHZXhj1rzL6&si=WOZ4f3nssn7iVy4o)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/87jwBQyt6Ss)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -485,7 +485,7 @@ java-fundamentals-course-los5suyos/
 
 | | |
 |---|---|
-| **Duración** | 5 minutos |
+| **Duración** | 8 minutos |
 | **Descripción** | Cierra el curso con consejos prácticos, errores comunes a evitar y recursos para seguir aprendiendo Java. |
 | **Aprenderás** | Nombres descriptivos · No repetir código · Leer errores · Recursos para continuar |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion10.md)|
@@ -514,16 +514,16 @@ java-fundamentals-course-los5suyos/
 
 | # | Tema | Duración | Práctica en JDoodle |
 |:---:|---|:---:|:---:|
-| 1 | ¿Qué es Java? — Hola Mundo | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 2 | Variables y Tipos de Datos | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 3 | Operadores y Expresiones | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 4 | Estructuras de Control | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 5 | Métodos y Entrada/Salida | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 1 | ¿Qué es Java? — Hola Mundo | 4 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 2 | Variables y Tipos de Datos | 4 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 3 | Operadores y Expresiones | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 4 | Estructuras de Control | 13 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 5 | Métodos y Entrada/Salida | 12 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
 | 6 | Clases y Objetos — POO | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 7 | Encapsulamiento | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 8 | Arrays | 7 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 9 | Proyecto Final POO | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
-| 10 | Buenas Prácticas | 5 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 7 | Encapsulamiento | 17 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 8 | Arrays | 18 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 9 | Proyecto Final POO | 23 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 10 | Buenas Prácticas | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
 | | **Total** | **~65 min** | |
 
 <br>
